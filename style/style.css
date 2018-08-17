@@ -1,0 +1,50 @@
+body{
+    background-image: url("emile-perron-190221-unsplash.jpg");
+    background-size: cover;
+}
+
+
+#hdiv{
+    width: 60%;
+    margin: 0 auto;
+    font-size: 100px;
+
+}
+
+#below{
+    font-size: 50px;
+    color: #f5f5f5;
+}
+
+#head{
+    font-size: 60px;
+    color: #a7dbd8;
+    margin: 0 auto;
+}
+
+#name{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #009dec;
+    font-style: italic;
+
+}
+
+#know{
+    color: #cc3f4c;
+    font-style: oblique;
+    font-family: "Lucida Grande", Geneva, Verdana, Arial, sans-serif;
+    font-weight: bold;
+}
+
+#projects{
+    margin-top: 70px;
+}
+
+#blank{
+    color: red;
+}
+#foot{
+    align-items: end;
+    margin-bottom: 0;
+    color:#ff2a00 ;
+}
