@@ -43,7 +43,7 @@ body{
 
 #foot{
     align-items: end;
-    margin-top: 700px;
+    margin-top: 600px;
     color:#ff2a00 ;
 }
 
@@ -51,5 +51,20 @@ body{
     margin: 0 auto;
     color: #009dec;
 
+}
+
+#knowmore{
+    margin: 0 auto;
+}
+
+#social{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 25px;
+
+}
+
+#link{
+    size: 400px;
 }
 
